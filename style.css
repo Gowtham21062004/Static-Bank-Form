@@ -1,0 +1,26 @@
+header{
+    background-color: green;
+    color: white;
+}
+label{
+    font-size: large;
+    padding: 5px;
+}
+.input{
+    width: 500px;
+    border: 1px solid black;
+    padding: 5px;
+}
+.two{
+    width: 150px;
+    border: 1px solid black;
+    padding: 5px;
+} 
+.three{
+    width: 150px;
+    border: 1px solid black;
+    padding: 5px; 
+}
+.section{
+    background-color: rgb(177, 204, 204);
+}
