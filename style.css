@@ -1,26 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
 header{
     background-color: green;
     color: white;
+    margin: 0 auto;
+    width: 1043px;
 }
-label{
-    font-size: large;
+td{
+    font-size:larger;
     padding: 5px;
 }
 .input{
     width: 500px;
     border: 1px solid black;
     padding: 5px;
+    font-size: large;
 }
 .two{
     width: 150px;
     border: 1px solid black;
     padding: 5px;
+    font-size: large;
 } 
 .three{
     width: 150px;
     border: 1px solid black;
-    padding: 5px; 
+    padding: 5px;
+    font-size: large; 
 }
-.section{
+/* .section{
     background-color: rgb(177, 204, 204);
+} */
+tr td{
+    text-align: justify;
+}
+table{
+    background-color: rgb(177, 204, 204);
+    width: 70%;
+    height: 700%;
+    margin: 0 auto;
 }
